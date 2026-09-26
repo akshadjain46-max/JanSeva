@@ -1,0 +1,8 @@
+{
+  "name": "Remix JanSEVA - Unified Healthcare \u0026 Emergency Grid OS",
+  "description": "Next-generation healthcare command platform, regional hospital matrix, real-time emergency triage, AI patient queuing, and critical care resource allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
